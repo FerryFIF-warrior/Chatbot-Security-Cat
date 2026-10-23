@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+data/vectordb/
+data/registry.sqlite
+
+.venv/
+pip-install.log
+
+reference/
